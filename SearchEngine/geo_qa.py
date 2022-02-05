@@ -1,5 +1,5 @@
-# omarmahamid : 207705377
-# Ansigbaria : 314786476
+# omarmahamid
+# Ansigbaria 
 
 import lxml.html
 import rdflib
